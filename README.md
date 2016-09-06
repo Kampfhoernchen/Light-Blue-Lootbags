@@ -1,8 +1,8 @@
 # Payday2 Light Blue Lootbag  Development Version!
 Light Blue Lootbag is a texture Mod for Payday 2 to change the look of the Lootbags.
 <p align="center">
-  <img src="http://abload.de/img/noimageavailablemts7o.jpg" width="420"/>
-  <img src="http://abload.de/img/noimageavailablemts7o.jpg" width="420"/><br>
+  <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/>
+  <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/><br>
   <i>(Click to view bigger version)</i>
 </p>
 
